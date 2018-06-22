@@ -5,4 +5,4 @@ AudioBible is an app which plays Bible. Recorded audio files stored on ftp serve
 
 Here's what it looks like:
 
-![Output sample](https://github.com/ascentman/AudioBible/blob/master/1212%20(1).gif)
+![gif](https://github.com/ascentman/AudioBible/blob/master/preview.gif)
